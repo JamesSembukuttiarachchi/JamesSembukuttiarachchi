@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm James Sembukuttiarachchi</h1>
 <h3 align="center">Currently an Information Technology undergraduate Specializing in Software Engineering in SLIIT</h3>
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **MERN Stack, React, React Native**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MERN Stack, React Native**
 
 - 📝 I regularly write articles on [https://medium.com/@jamessembukuttiarachchi](https://medium.com/@jamessembukuttiarachchi)
 
-- 💬 Ask me about **MERN Stack, Web Application, Object Oriented Programming**
+- 💬 Ask me about **MERN Stack, Web Application, React, Object Oriented Programming**
 
 - 📫 How to reach me **jamessanjayasem@gmail.com**
 
