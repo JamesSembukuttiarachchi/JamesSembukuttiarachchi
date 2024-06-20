@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm James Sembukuttiarachchi</h1>
 <h3 align="center">Currently an Information Technology undergraduate Specializing in Software Engineering in SLIIT</h3>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 📝 I regularly write articles on [https://medium.com/@jamessembukuttiarachchi](https://medium.com/@jamessembukuttiarachchi)
 
